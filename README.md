@@ -1,7 +1,7 @@
 # Report
 
 ## Overview
-### The goal of this project is to create an algorithm using machine learning and neural networks to predict whether applicants will be successful if funded by the fictional non-profit foundation, Alphabet Soup.
+### The goal of this project is to create an algorithm using machine learning and neural networks to predict whether applicants will be successful if funded by Alphabet Soup.
 ----------------------------
 ----------------------------
 
